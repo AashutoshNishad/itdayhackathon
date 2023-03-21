@@ -1,0 +1,6 @@
+.env
+# node_modules/
+ashu.class
+uploads/images/*
+uploads/videos/*
+ashu/
